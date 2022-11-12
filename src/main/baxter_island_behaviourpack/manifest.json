@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "Baxter Island",
+    "uuid": "ea909bd0-4e98-308f-8af3-ec54212ea9a0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      18,
+      2
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "49a6a7f9-7fa5-347e-b221-5440d005f7ef",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "715f2bd9-e6a0-3df5-be77-319ed0818b4a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Greg, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
